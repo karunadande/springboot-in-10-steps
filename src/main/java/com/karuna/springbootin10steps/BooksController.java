@@ -1,4 +1,4 @@
-package com.karuna.springboot.basics.springbootin10steps;
+package com.karuna.springbootin10steps;
 
 import java.util.Arrays;
 import java.util.List;

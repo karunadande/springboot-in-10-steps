@@ -1,4 +1,4 @@
-package com.karuna.springboot.basics.springbootin10steps;
+package com.karuna.springbootin10steps;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
