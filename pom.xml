@@ -55,7 +55,10 @@
 		</plugins>
 	</build>
 <distributionManagement>
+	<repository>
+	<id>snapshots</id>
 	<name>mvn-snapshots</name>
 	<url>https://learnopenshift11.jfrog.io/artifactory/openshift-data-docker</url>
+	</repository>
 </distributionManagement>
 </project>
