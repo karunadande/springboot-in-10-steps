@@ -1,4 +1,4 @@
 FROM openjdk:8
-ADD target/springbootin10steps-0.0.1-SNAPSHOT.jar
+ADD target/springbootin10steps-0.0.1-SNAPSHOT.jar springbootin10steps-0.0.1-SNAPSHOT.jar
 EXPOSE 8081
 ENTRYPOINT ["java", "-jar", "springbootin10steps.jar"]
